@@ -8,7 +8,6 @@ This project is a simple React application built to practice **useState** and st
 ## **Features**
 - **Interactive Form**: Users can input and submit data, with the state dynamically updated using `useState`. ✍️
 - **Theme Toggle**: A toggle button allows users to switch between light and dark themes, demonstrating state-driven UI updates. 🌗
-- **Responsive Design**: The form is styled to look good on various screen sizes. 📱💻
 
 ---
 
